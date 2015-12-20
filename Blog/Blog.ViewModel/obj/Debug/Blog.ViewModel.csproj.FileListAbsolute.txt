@@ -1,0 +1,12 @@
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\Blog.ViewModel.dll.config
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\Blog.ViewModel.dll
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\Blog.ViewModel.pdb
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\Blog.Entities.dll
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\EntityFramework.dll
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\Blog.Entities.pdb
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\EntityFramework.xml
+F:\Загрузки\Blog\Blog.ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Загрузки\Blog\Blog.ViewModel\obj\Debug\Blog.ViewModel.csprojResolveAssemblyReference.cache
+F:\Загрузки\Blog\Blog.ViewModel\obj\Debug\Blog.ViewModel.dll
+F:\Загрузки\Blog\Blog.ViewModel\obj\Debug\Blog.ViewModel.pdb

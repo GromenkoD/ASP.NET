@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Blog.Entities.Comment>
+
+
+
+
+@foreach (var item in Model)
+{
+    <div class="row row-content">
+        <div class="col-xs-12 col-sm-2">
+
+            <h6>Сomment Number:  @Html.DisplayFor(modelItem => item.Id) </h6>
+        </div>
+        <div class="col-xs-12 col-sm-10">
+            <p style="padding:20px;"></p>
+            <h4>@Html.DisplayFor(modelItem => item.Content)</h4>
+
+        </div>
+    </div>
+}
+
+
+
+

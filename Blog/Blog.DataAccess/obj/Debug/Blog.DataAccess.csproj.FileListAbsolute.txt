@@ -1,0 +1,12 @@
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.dll.config
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.dll
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.pdb
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\Blog.Entities.dll
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\EntityFramework.dll
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\Blog.Entities.pdb
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\EntityFramework.xml
+F:\Загрузки\Blog\Blog.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Загрузки\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csprojResolveAssemblyReference.cache
+F:\Загрузки\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.dll
+F:\Загрузки\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.pdb
